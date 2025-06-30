@@ -1,6 +1,7 @@
 **# Density Based Smart Traffic Control System Using Canny Edge Detection**  
 
 Team Project | Final Year Engineering | Role: Project Lead 
+
 **#Technologies Used:**
 
 MATLAB, Image Processing Toolbox, Canny Edge Detection, Morphological Operations, GUI 
